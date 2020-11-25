@@ -1,0 +1,1 @@
+# vue-quill-plain-clipboard

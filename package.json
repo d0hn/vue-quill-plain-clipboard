@@ -1,0 +1,22 @@
+{
+  "name": "vue-quill-plain-clipboard",
+  "version": "1.0.0",
+  "description": "Module for Vue Quill which clears the clipboard from all styles",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0hn/vue-quill-plain-clipboard.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "d0hn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d0hn/vue-quill-plain-clipboard/issues"
+  },
+  "homepage": "https://github.com/d0hn/vue-quill-plain-clipboard#readme"
+}
